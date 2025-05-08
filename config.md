@@ -61,4 +61,6 @@ The lab uses two NAT networks to simulate internal and external segments, with M
 - Metasploitable 2 and Ubuntu offer additional Linux and web exploitation practice.
 - Reset or restore VMs as needed to repeat exercises.
 
-Tip: See the attached PDF for network diagrams and configuration.
+Tip: See the attached PDF for network diagram and configuration. 
+
+![lab](https://github.com/user-attachments/assets/3492e5ff-149c-4ad8-a4e4-1e8addf0bb6e)
