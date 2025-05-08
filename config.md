@@ -37,7 +37,6 @@ The lab uses two NAT networks to simulate internal and external segments, with M
 | MS02   | -                   | 10.0.2.201         |
 | DC01   | -                   | 10.0.2.200         |
 
-- Set DC01 as the DNS server for the 'oscp-inside' network (10.0.2.200).
 
 3. Windows Configuration (skip this step if you've downloaded the .ova file)
 - Install vulnerable software on MS01 (e.g., XAMPP from ExploitDB).
@@ -46,6 +45,8 @@ The lab uses two NAT networks to simulate internal and external segments, with M
 4. Active Directory Setup (skip this step if you've downloaded the .ova file)
 - Use the provided PowerShell script to create users, groups, and set passwords with varying strengths and vulnerabilities (e.g., Kerberoastable, AS-REP roastable).
 - Refer to the script for user/group details and password assignments.
+- Set DC01 as the DNS server for the 'oscp-inside' network (10.0.2.200).
+
 
 5. Finalize and Test
 - Ensure all VMs can communicate as per their assigned networks.
