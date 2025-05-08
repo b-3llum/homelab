@@ -63,4 +63,4 @@ The lab uses two NAT networks to simulate internal and external segments, with M
 
 Tip: See the attached PDF for network diagram and configuration. 
 
-![lab](https://github.com/user-attachments/assets/3492e5ff-149c-4ad8-a4e4-1e8addf0bb6e)
+![lab-setup](https://github.com/user-attachments/assets/7284fd46-8941-4038-9671-3bb4d1413c2b)
