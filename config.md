@@ -39,8 +39,8 @@ The lab uses two NAT networks to simulate internal and external segments, with M
 
 
 3. Windows Configuration (skip this step if you've downloaded the .ova file)
-- Install vulnerable software on MS01 (e.g., XAMPP from ExploitDB).
-- Enable auto-logon and disable sleep/tamper protection in Windows Defender on MS01/MS02[2].
+- Install vulnerable software on MS01 (e.g., XAMPP,some exploits from ExploitDB).
+- Enable auto-logon and disable sleep/tamper protection in Windows Defender on MS01/MS02.
 
 4. Active Directory Setup (skip this step if you've downloaded the .ova file)
 - Use the provided PowerShell script to create users, groups, and set passwords with varying strengths and vulnerabilities (e.g., Kerberoastable, AS-REP roastable).
