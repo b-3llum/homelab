@@ -57,7 +57,7 @@ The lab uses two NAT networks to simulate internal and external segments, with M
   Usage
 
 - Use Kali to launch attacks against the lab targets (e.g., enumeration, exploitation, privilege escalation).
-- Practive pivoting to get into the second network (e.g., ligolo-ng)
+- Practice pivoting to get into the second network (e.g., ligolo-ng)
 - Practice AD attacks (Kerberoasting, AS-REP Roasting, password cracking) using the created users and groups.
 - Metasploitable 2 and Ubuntu offer additional Linux and web exploitation practice.
 - Reset or restore VMs as needed to repeat exercises.
